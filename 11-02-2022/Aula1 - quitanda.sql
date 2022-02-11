@@ -1,7 +1,7 @@
 -- Criara o banco de dados db_quitanda
 create database db_quitanda;
 
-use db_quitanda;
+use db_quitanda; -- 
 
 -- ciando tabela
 create table tb_produtos(-- preciso definir dentro do parenteses os atributos
